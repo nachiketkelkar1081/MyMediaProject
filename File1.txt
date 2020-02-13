@@ -2,6 +2,6 @@ class Hello
 {
 public static void main(String args[])
 {
-syso("sC");
+System.out.println("SunC");
 }
 }
