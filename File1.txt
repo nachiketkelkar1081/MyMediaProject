@@ -1,6 +1,6 @@
 class Hello
 {
-main()
+public static void main(String args[])
 {
 syso("sC");
 }
