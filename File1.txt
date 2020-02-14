@@ -1,5 +1,7 @@
+//Hello start
 class Hello
 {
+//Method
   public static void main(String args[])
   {
     System.out.println("weqweewSunC");
