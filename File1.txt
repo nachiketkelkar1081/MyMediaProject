@@ -6,6 +6,7 @@ class Hello
   {
     System.out.println("weqweewSunC");
   }
+//naya commit 2 
 }
 
 //Hello end
