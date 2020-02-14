@@ -4,10 +4,14 @@ class Hello
 	//Maethoud
   public static void main(String args[])
   {
+//nayacommit1
+//naya commit5
     System.out.println("weqweewSunC");
   }
 //naya commit 2 
 }
-
+//naya commit 3
+//naya commit 4
 //Hello end
+//naya commit5
 
