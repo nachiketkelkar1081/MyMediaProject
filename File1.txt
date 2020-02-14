@@ -14,4 +14,6 @@ class Hello
 //naya commit 4
 //Hello end
 //naya commit5
+//naya commit 6
+
 
